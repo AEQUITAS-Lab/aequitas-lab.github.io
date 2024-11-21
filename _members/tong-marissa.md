@@ -1,6 +1,6 @@
 ---
 name: Marissa Tong
-images: images/photo.jpg
+image: images/headshots/marissa-tong.jfif
 group: alum
 links:
     linkedin: marissatong

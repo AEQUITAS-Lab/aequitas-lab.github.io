@@ -1,6 +1,6 @@
 ---
 name: Lingling Wang
-images: images/photo.jpg
+image: images/headshots/lingling-wang.jfif
 group: alum
 links:
     linkedin: llwang1122

@@ -1,6 +1,6 @@
 ---
 name: Junhan Ouyang
-images: images/photo.jpg
+image: images/headshots/junhan-ouyang.jpg
 group: alum
 links:
     linkedin: junhan-ouyang-136094199

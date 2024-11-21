@@ -1,6 +1,6 @@
 ---
 name: Nicole Pochinki
-images: images/headshots/nicole-pochinki.jpeg
+image: images/headshots/nicole-pochinki.jpg
 group: alum
 links: 
     linkedin: nicole-pochinki

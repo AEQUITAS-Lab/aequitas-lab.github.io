@@ -1,6 +1,6 @@
 ---
 name: Sunil Sabnis
-image: images/photo.jpg
+image: images/headshots/sunil-sabnis.jfif
 group: alum
 links:
     linkedin: sunilsabnis

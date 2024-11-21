@@ -1,6 +1,6 @@
 ---
 name: Jason Zheng
-images: images/photo.jpg
+image: images/headshots/jason-zheng.jfif
 group: alum
 links:
     linkedin: zjason25
