@@ -1,0 +1,30 @@
+{%- assign max = 0 -%}
+
+{%- for i in (1..100) -%}
+  {%- assign image_key = "image" | append: i -%}
+  {%- assign image = include[image_key] -%}
+  {%- if image -%}
+    {%- assign max = i -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
+  {%- for i in (1..max) -%}
+    {%- assign image_key = "image" | append: i -%}
+    {%- assign image = include[image_key] -%}
+    {%- if image -%}
+      <div style="flex: 0 0 490px; max-width: {{ size }}; text-align: center;">
+        <img src="{{ image }}" alt="Image {{ i }}" style="width: 100%; height: auto;">
+      </div>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    div[style*="display: flex"] > div {
+      flex: 0 1 100%;
+      max-width: 100%;
+    }
+  }
+</style>
