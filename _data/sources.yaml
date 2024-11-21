@@ -74,8 +74,7 @@
   date: 2021-08-05
   image: images/publications/acl21.png
 
-- id: uri:https://www.ie.edu/cgc/research/higher-education-future-work/
-  title: "How Universities Can Mind the Skills Gap (Higher Education and the Future of Work)"
+- title: "How Universities Can Mind the Skills Gap (Higher Education and the Future of Work)"
   date: 2021-04-01
   authors:
     - "Carlos X. Lastra-Anadon"
@@ -84,15 +83,16 @@
     - "Hari Raghavan"
     - "Renzhe Yu"
   publisher: "Center for the Governance of Change, IE University"
+  link: https://www.ie.edu/cgc/research/higher-education-future-work/
   image: images/publications/ie-cgc.jpg
 
-- id: uri:https://ceur-ws.org/Vol-2868/article_5.pdf
-  title: "Construction of Weighted Course Co-Enrollment Network"
+- title: "Construction of Weighted Course Co-Enrollment Network"
   date: 2021-04-12
   authors:
     - "Xunfei Li"
     - "Renzhe Yu"
   publisher: "Proceedings of the Workshop on Using Network Science in Learning Analytics: Building Bridges towards a Common Agenda"
+  link: https://ceur-ws.org/Vol-2868/article_5.pdf
   image: images/publications/lak21.jpg
 
 - id: doi:10.1007/s11145-020-10081-x
@@ -100,3 +100,9 @@
 
 - id: doi:10.1145/3386527.3406755
   image: images/publications/las.png
+
+- id: doi:10.1186/s41239-020-00187-1
+  image: images/publications/ethe.jpg
+
+- id: doi:10.3102/0091732X20903304
+  image: images/publications/rre.jpg
