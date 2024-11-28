@@ -106,3 +106,59 @@
 
 - id: doi:10.3102/0091732X20903304
   image: images/publications/rre.jpg
+
+- id: doi:10.1007/978-3-030-52237-7_27
+  date: 2020-06-30
+  publisher: "Proceedings of the 21st International Conference on Artificial Intelligence in Education"
+  image: images/publications/aied20.png
+
+- title: "Towards Accurate and Fair Prediction of College Success: Evaluating Different Sources of Student Data"
+  authors:
+    - "Renzhe Yu"
+    - "Qiujie Li"
+    - "Christian Fischer"
+    - "Shayan Doroudi"
+    - "Di Xu"
+  link: https://eric.ed.gov/?id=ED608066
+  date: 2020-07-10
+  publisher: "Proceedings of the 13th International Conference on Educational Data Mining"
+  image: images/publications/edm20.png
+
+- title: "Student Behavioral Embeddings and Their Relationship to Outcomes in A Collaborative Online Course"
+  date: 2019-07-02
+  authors:
+    - "Renzhe Yu"
+    - "Zachary Pardos"
+    - "John Scott"
+  publisher: "Proceedings of the Workshop on Learning Analytics: Building Bridges Between the Education and the Computing Communities"
+  link: https://ceur-ws.org/Vol-2592/paper3.pdf
+  image: images/publications/edm19.png
+
+- title: "Construction of Weighted Course Co-Enrollment Network"
+  date: 2019-03-04
+  authors:
+    - "Renzhe Yu"
+  publisher: "Proceedings of the Workshop on Connectivism: Using Learning Analytics to Operationalize A Research Agenda"
+  link: https://renzheyu.com/papers/LAK_LearnNet.pdf
+  image: images/publications/lak19.png
+
+- id: doi:10.1145/3303772.3303841
+  image: images/publications/lak19.png
+
+- id: doi:10.1080/10611932.2019.1667681
+  image: images/publications/ces.jfif
+
+- id: doi:10.1145/3231644.3231702
+  image: images/publications/las18.jpg
+
+- title: "Understanding Student Procrastination via Mixture Models"
+  authors:
+    - "Jihyun Park"
+    - "Renzhe Yu"
+    - "Fernando Rodriguez"
+    - "Rachel Baker"
+    - "Padhraic Smyth"
+    - "Mark Warschauer"
+  link: https://eric.ed.gov/?id=ED593094
+  date: 2018-07-16
+  publisher: "Proceedings of the 11th International Conference on Educational Data Mining"

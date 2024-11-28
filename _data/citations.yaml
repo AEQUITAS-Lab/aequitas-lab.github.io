@@ -331,12 +331,14 @@
   - Yiwen Lin
   - Renzhe Yu
   - Nia Dowell
-  publisher: Lecture Notes in Computer Science
-  date: '2020-01-01'
+  publisher: Proceedings of the 21st International Conference on Artificial Intelligence
+    in Education
+  date: '2020-06-30'
   link: https://doi.org/g8qhzm
   orcid: 0000-0002-2375-3537
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/aied20.png
 - id: doi:10.3102/0091732X20903304
   title: 'Mining Big Data in Education: Affordances and Challenges'
   authors:
@@ -366,8 +368,9 @@
   date: '2019-07-04'
   link: https://doi.org/g8qhzn
   orcid: 0000-0002-2375-3537
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/ces.jfif
 - id: doi:10.1145/3303772.3303841
   title: Utilizing Learning Analytics to Map Students' Self-Reported Study Strategies
     to Click Behaviors in STEM Courses
@@ -383,8 +386,9 @@
   date: '2019-03-04'
   link: https://doi.org/g8qhzp
   orcid: 0000-0002-2375-3537
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/lak19.png
 - id: doi:10.1145/3231644.3231702
   title: Representing and predicting student navigational pathways in online college
     courses
@@ -396,8 +400,9 @@
   date: '2018-06-26'
   link: https://doi.org/g8qhzq
   orcid: 0000-0002-2375-3537
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/las18.jpg
 - title: How Universities Can Mind the Skills Gap (Higher Education and the Future
     of Work)
   date: '2021-04-01'
@@ -421,5 +426,57 @@
     Building Bridges towards a Common Agenda'
   link: https://ceur-ws.org/Vol-2868/article_5.pdf
   image: images/publications/lak21.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Towards Accurate and Fair Prediction of College Success: Evaluating Different
+    Sources of Student Data'
+  authors:
+  - Renzhe Yu
+  - Qiujie Li
+  - Christian Fischer
+  - Shayan Doroudi
+  - Di Xu
+  link: https://eric.ed.gov/?id=ED608066
+  date: '2020-07-10'
+  publisher: Proceedings of the 13th International Conference on Educational Data
+    Mining
+  image: images/publications/edm20.png
+  plugin: sources.py
+  file: sources.yaml
+- title: Student Behavioral Embeddings and Their Relationship to Outcomes in A Collaborative
+    Online Course
+  date: '2019-07-02'
+  authors:
+  - Renzhe Yu
+  - Zachary Pardos
+  - John Scott
+  publisher: 'Proceedings of the Workshop on Learning Analytics: Building Bridges
+    Between the Education and the Computing Communities'
+  link: https://ceur-ws.org/Vol-2592/paper3.pdf
+  image: images/publications/edm19.png
+  plugin: sources.py
+  file: sources.yaml
+- title: Construction of Weighted Course Co-Enrollment Network
+  date: '2019-03-04'
+  authors:
+  - Renzhe Yu
+  publisher: 'Proceedings of the Workshop on Connectivism: Using Learning Analytics
+    to Operationalize A Research Agenda'
+  link: https://renzheyu.com/papers/LAK_LearnNet.pdf
+  image: images/publications/lak19.png
+  plugin: sources.py
+  file: sources.yaml
+- title: Understanding Student Procrastination via Mixture Models
+  authors:
+  - Jihyun Park
+  - Renzhe Yu
+  - Fernando Rodriguez
+  - Rachel Baker
+  - Padhraic Smyth
+  - Mark Warschauer
+  link: https://eric.ed.gov/?id=ED593094
+  date: '2018-07-16'
+  publisher: Proceedings of the 11th International Conference on Educational Data
+    Mining
   plugin: sources.py
   file: sources.yaml
