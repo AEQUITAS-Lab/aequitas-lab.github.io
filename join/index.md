@@ -8,18 +8,23 @@ nav:
 
 {% include section.html %}
 
-We promote and support diversity, equity, and inclusion in academia. We welcome people from all backgrounds to consider joining our lab, especially members of historically marginalized communities.
+We promote and support diversity, equity, and inclusion in academia. We welcome people from all backgrounds to consider joining our lab, especially members of historically marginalized communities. 
+
+Before applying for or inquiring about any of the opportunities listed below, **please thoroughly review the research projects and publications on this website to understand what we are doing.**
 
 ### Postdoctoral scholars
-Currently there is no project-based postdoc position available. However, you can apply to Columbia's [DSI Postdoctoral Fellows Program](https://apply.interfolio.com/157225) and identify Dr. Yu as one of your faculty collaborators. Applications are due on December 15 every year. 
+Currently there is no project-based postdoc position available. However, you can apply to the following fellowship programs at Columbia/TC and identify Dr. Yu as one of your faculty mentors. These programs support fully independent postdoc positions and are highly competitive.
+
+- [DSI Postdoctoral Fellows Program](https://apply.interfolio.com/157225) (Deadline: December 15, 2024) 
+- [TC Minority Postdoctoral Fellow](https://employment.tc.columbia.edu/cw/en-us/job/512981/minority-postdoctoral-fellow) (Deadline: December 31, 2024)
 
 ### Doctoral students
 We admit **new doctoral students** through the following programs:
 
-- [Cognitive Science in Education](https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/degrees--requirements/cognitive-science-in-education-phd/)
-- [Measurement and Evaluation](https://www.tc.columbia.edu/human-development/measurement-evaluation-and-statistics/degrees--requirements/measurement-and-evaluation-phd/)
+- [Cognitive Science in Education](https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/degrees--requirements/cognitive-science-in-education-phd/) (Deadline: December 1, 2024) 
+- [Measurement and Evaluation](https://www.tc.columbia.edu/human-development/measurement-evaluation-and-statistics/degrees--requirements/measurement-and-evaluation-phd/) (Deadline: December 1, 2024) 
 
-You should apply to one (and only one) of the programs that best suits your background and interest, and mention that you want to work with Dr. Yu in the statement of purpose. Applications are due on December 1 every year and you can find application instructions [here](https://www.tc.columbia.edu/admission/how-to-apply/degree-programs/).
+You should apply to one (and only one) of the programs that best suits your background and interest, and mention that you want to work with Dr. Yu in your statement of purpose. You can find more application instructions [here](https://www.tc.columbia.edu/admission/how-to-apply/degree-programs/).
 
 **Current doctoral students** at TC/Columbia are welcome to email Dr. Yu about potential collaboration.
 
