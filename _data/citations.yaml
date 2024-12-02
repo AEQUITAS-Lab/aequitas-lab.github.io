@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.lindif.2024.102598
+  title: 'Students'' study activities before and after exam deadlines as predictors
+    of performance in STEM courses: A multi-source data analysis'
+  authors:
+  - Luise von Keyserlingk
+  - Fani Lauermann
+  - Qiujie Li
+  - Renzhe Yu
+  - Charlott Rubach
+  - Richard Arum
+  - Jutta Heckhausen
+  publisher: Learning and Individual Differences
+  date: '2025-01-01'
+  link: https://doi.org/g8sr7m
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41597-024-03931-8
   title: 'Course-Skill Atlas: A national longitudinal dataset of skills taught in
     U.S. higher education curricula'
