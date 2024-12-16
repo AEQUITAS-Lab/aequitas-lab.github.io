@@ -1,1 +1,1 @@
-Sitemap: https://aequitas-lab.github.io/sitemap.xml
+Sitemap: http://aequitas-lab.tc.columbia.edu/sitemap.xml
