@@ -11,14 +11,14 @@ postdoc:
 doc:
   description: Doctoral Student
 
-vds:
-  description: Visiting Doctoral Student
-
 ms:
   description: Master's Student
 
 ug:
   description: Undergraduate Student
+
+visitor:
+  description: Visiting Researcher
 
 # general
 
