@@ -15,8 +15,7 @@ Before applying for or inquiring about any of the opportunities listed below, **
 ### Postdoctoral scholars
 Currently there is no project-based postdoc position available. However, you can apply to the following fellowship programs at Columbia/TC and identify Dr. Yu as one of your faculty mentors. These programs support fully independent postdoc positions and are highly competitive.
 
-- [DSI Postdoctoral Fellows Program](https://apply.interfolio.com/157225) (Deadline for this cycle has passed.) 
-- [TC Minority Postdoctoral Fellow](https://employment.tc.columbia.edu/cw/en-us/job/512981/minority-postdoctoral-fellow) (Deadline: December 31, 2024)
+- [DSI Postdoctoral Fellows Program](https://datascience.columbia.edu/research/postdoctoral-researchers/) (Deadline for this cycle has passed.) 
 
 ### Doctoral students
 We admit **new doctoral students** every year through the following programs:
