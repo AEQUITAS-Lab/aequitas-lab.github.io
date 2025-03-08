@@ -12,13 +12,9 @@
   date: '2025-03-03'
   link: https://doi.org/g85s69
   orcid: 0000-0002-2375-3537
-<<<<<<< HEAD
   plugin: sources.py
   file: sources.yaml
-=======
-  plugin: orcid.py
-  file: orcid.yaml
->>>>>>> 60c71965c01fdb340b89abeab00495811efe9a70
+  image: images/publications/lak25.png
 - id: doi:10.1016/j.lindif.2024.102598
   title: 'Students'' study activities before and after exam deadlines as predictors
     of performance in STEM courses: A multi-source data analysis'
