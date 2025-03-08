@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3706468.3706567
+  title: 'Towards Fair and Privacy-Aware Transfer Learning for Educational Predictive
+    Modeling: A Case Study on Retention Prediction in Community Colleges'
+  authors:
+  - Chengyuan Yao
+  - Carmen Cortez
+  - Renzhe Yu
+  publisher: Proceedings of the 15th International Learning Analytics and Knowledge
+    Conference
+  date: '2025-03-03'
+  link: https://doi.org/g85s69
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.lindif.2024.102598
   title: 'Students'' study activities before and after exam deadlines as predictors
     of performance in STEM courses: A multi-source data analysis'

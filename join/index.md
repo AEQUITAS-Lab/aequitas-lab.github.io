@@ -8,7 +8,7 @@ nav:
 
 {% include section.html %}
 
-We promote and support diversity, equity, and inclusion in academia. We welcome people from all backgrounds to consider joining our lab, especially members of historically marginalized communities. 
+We welcome people from all backgrounds to consider joining our lab, especially members of historically marginalized communities. 
 
 Before applying for or inquiring about any of the opportunities listed below, **please thoroughly review the research projects and publications on this website to understand what we are doing.**
 
