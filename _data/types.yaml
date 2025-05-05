@@ -17,6 +17,9 @@ ms:
 ug:
   description: Undergraduate Student
 
+affiliate:
+  description: Research Affiliate
+
 visitor:
   description: Visiting Researcher
 

@@ -1,7 +1,7 @@
 ---
 name: Carmen Cortez
 image: images/headshots/carmen-cortez.png
-role: visitor
+role: affiliate
 links:
     linkedin: ccortez1
     email: cc4144@tc.columbia.edu

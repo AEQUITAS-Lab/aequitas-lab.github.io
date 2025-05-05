@@ -33,4 +33,4 @@ Researchers and doctoral students outside of Columbia are welcome to email Dr. Y
 ### Master's and undergraduate students
 If you are a Columbia student (including Barnard and TC) and interested in getting involved in a research project, please fill out the [Research Interest Form](https://forms.gle/bFthcBY2LLwKvMFd9). When positions become available, we will look through the form responses to identify candidates whose interests and goals align best with our projects, and reach out to candidates for any additional materials and interviews.
 
-You are also welcome to take a course taught by Dr. Yu to foster mutual understanding before you join the lab. The next course will be HUDK 4051 (Learning Analytics: Process and Theory), offered in Spring 2025.
+You are also welcome to take a course taught by Dr. Yu to foster mutual understanding before you join the lab.

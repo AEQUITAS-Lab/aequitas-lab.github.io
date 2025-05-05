@@ -19,7 +19,7 @@ We actively work with **under-resourced educational institutions and marginalize
 
 {% capture text %}
 #### Longitudinal modeling of educational inequality
-We investigate modeling strategies that convert longitudinal, unstructured data (e.g., digital traces, curricular content) into a rigorous understanding of how educational inequality accumulates through day-to-day experience.
+We investigate modeling strategies that convert longitudinal, unstructured data (e.g., digital traces, curricular content) into a rigorous understanding of how educational inequality accumulates through day-to-day teaching and learning experience.
 {% endcapture %}
 
 {%
