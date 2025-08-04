@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3698205.3729552
+  title: Investigating Systematic Variation in Academic Procrastination Behavior by
+    Course, Assignment, and Student Characteristics
+  authors:
+  - Yan Tao
+  - Nathan Maidi
+  - Renzhe Yu
+  - "Ren\xE9 F. Kizilcec"
+  publisher: Proceedings of the Twelfth ACM Conference on Learning @ Scale
+  date: '2025-07-17'
+  link: https://doi.org/g9v25x
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/x289s_v1
+  title: Tracing Need for Cognition in Digital Learning
+  authors:
+  - Aki Schumacher
+  - Luise von Keyserlingk
+  - Hannah Deininger
+  - Renzhe Yu
+  - Nia Nixon
+  - Lisa Bardach
+  publisher: Center for Open Science
+  date: '2025-06-16'
+  link: https://doi.org/g9q3jm
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/19345747.2024.2308306
   title: Is Big Data Better? LMS Data and Prediction Accuracy in Postsecondary Education
   authors:
@@ -46,6 +75,37 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/lid.jpg
+- id: doi:10.1007/978-3-031-98465-5_43
+  title: "Evaluating an\_AI Tutor for\_Bias Across Different Foundation Models"
+  authors:
+  - Aditya Vinodh
+  - Emma Harvey
+  - Husni Almoubayyed
+  - Renzhe Yu
+  - Christopher Brooks
+  - Allison Koenecke
+  - Rene F. Kizilcec
+  publisher: Lecture Notes in Computer Science
+  date: '2025-01-01'
+  link: https://doi.org/g9trz9
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-98465-5_26
+  title: 'From Course to Skill: Evaluating Large Language Model Performance in Curricular
+    Analytics'
+  authors:
+  - Zhen Xu
+  - Xinjin Li
+  - Yingqi Huan
+  - Veronica Minaya
+  - Renzhe Yu
+  publisher: Lecture Notes in Computer Science
+  date: '2025-01-01'
+  link: https://doi.org/g9tr2b
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41597-024-03931-8
   title: 'Course-Skill Atlas: A national longitudinal dataset of skills taught in
     U.S. higher education curricula'
