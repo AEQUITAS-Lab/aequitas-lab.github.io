@@ -1,5 +1,51 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3698205.3729552
+  title: Investigating Systematic Variation in Academic Procrastination Behavior by
+    Course, Assignment, and Student Characteristics
+  authors:
+  - Yan Tao
+  - Nathan Maidi
+  - Renzhe Yu
+  - "Ren\xE9 F. Kizilcec"
+  publisher: Proceedings of the Twelfth ACM Conference on Learning @ Scale
+  date: '2025-07-17'
+  link: https://doi.org/g9v25x
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/las25.jpg
+- id: doi:10.5281/ZENODO.15870276
+  title: Understanding Predictive Models of Student Success with a Multiverse Analysis
+  authors:
+  - ' Yunxuan Tang'
+  - ' Emma Harvey'
+  - ' Chengyuan Yao'
+  - ' Renzhe Yu'
+  - ' Rene Kizilcec'
+  - ' Christopher Brooks'
+  publisher: Proceedings of the 18th International Conference on Educational Data
+    Mining
+  date: '2025-07-12'
+  link: https://doi.org/g93796
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/edm25.png
+- id: doi:10.1080/19345747.2024.2308306
+  title: Is Big Data Better? LMS Data and Prediction Accuracy in Postsecondary Education
+  authors:
+  - Kelli A. Bird
+  - Benjamin L. Castleman
+  - Yifeng Song
+  - Renzhe Yu
+  publisher: Journal of Research on Educational Effectiveness
+  date: '2025-04-15'
+  link: https://doi.org/g9hgbk
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jree.png
 - id: doi:10.1145/3706468.3706567
   title: 'Towards Fair and Privacy-Aware Transfer Learning for Educational Predictive
     Modeling: A Case Study on Retention Prediction in Community Colleges'
@@ -33,6 +79,41 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/lid.jpg
+- id: doi:10.1007/978-3-031-98465-5_43
+  title: "Evaluating an\_AI Tutor for\_Bias Across Different Foundation Models"
+  authors:
+  - Aditya Vinodh
+  - Emma Harvey
+  - Husni Almoubayyed
+  - Renzhe Yu
+  - Christopher Brooks
+  - Allison Koenecke
+  - Rene F. Kizilcec
+  publisher: Proceedings of the 26th International Conference on Artificial Intelligence
+    in Education
+  date: '2025-07-20'
+  link: https://doi.org/g9trz9
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/aied25.png
+- id: doi:10.1007/978-3-031-98465-5_26
+  title: 'From Course to Skill: Evaluating Large Language Model Performance in Curricular
+    Analytics'
+  authors:
+  - Zhen Xu
+  - Xinjin Li
+  - Yingqi Huan
+  - Veronica Minaya
+  - Renzhe Yu
+  publisher: Proceedings of the 26th International Conference on Artificial Intelligence
+    in Education
+  date: '2025-07-20'
+  link: https://doi.org/g9tr2b
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/aied25.png
 - id: doi:10.1038/s41597-024-03931-8
   title: 'Course-Skill Atlas: A national longitudinal dataset of skills taught in
     U.S. higher education curricula'
@@ -154,7 +235,7 @@
   - Quan Nguyen
   - Christopher Brooks
   - Rene Kizilcec
-  publisher: 2023 ACM Conference on Fairness, Accountability, and Transparency
+  publisher: 2023 ACM Conference on Fairness Accountability and Transparency
   date: '2023-06-12'
   link: https://doi.org/g8n6v4
   orcid: 0000-0002-2375-3537
@@ -322,7 +403,7 @@
   orcid: 0000-0002-2375-3537
   plugin: sources.py
   file: sources.yaml
-  image: images/publications/r&W.webp
+  image: images/publications/r&w.webp
 - id: doi:10.1186/s41239-020-00187-1
   title: 'The benefits and caveats of using clickstream data to understand student
     self-regulatory behaviors: opening the black box of learning processes'
@@ -511,5 +592,6 @@
   date: '2018-07-16'
   publisher: Proceedings of the 11th International Conference on Educational Data
     Mining
+  image: images/publications/edm18.png
   plugin: sources.py
   file: sources.yaml

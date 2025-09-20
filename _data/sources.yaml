@@ -1,8 +1,28 @@
+- id: doi:10.1007/978-3-031-98465-5_43
+  publisher: "Proceedings of the 26th International Conference on Artificial Intelligence in Education"
+  date: 2025-07-20
+  image: images/publications/aied25.png
+
+- id: doi:10.1007/978-3-031-98465-5_26
+  publisher: "Proceedings of the 26th International Conference on Artificial Intelligence in Education"
+  date: 2025-07-20
+  image: images/publications/aied25.png
+
+- id: doi:10.5281/ZENODO.15870276
+  publisher: "Proceedings of the 18th International Conference on Educational Data Mining"
+  image: images/publications/edm25.png
+
+- id: doi:10.1145/3698205.3729552
+  image: images/publications/las25.jpg
+
 - id: doi:10.1145/3706468.3706567
   image: images/publications/lak25.png
 
 - id: doi:10.1016/j.lindif.2024.102598
   image: images/publications/lid.jpg
+
+- id: doi:10.1080/19345747.2024.2308306
+  image: images/publications/jree.png
 
 - id: doi:10.1038/s41597-024-03931-8
   image: images/publications/scientific-data.svg
@@ -102,7 +122,7 @@
   image: images/publications/lak21.jpg
 
 - id: doi:10.1007/s11145-020-10081-x
-  image: images/publications/r&W.webp
+  image: images/publications/r&w.webp
 
 - id: doi:10.1145/3386527.3406755
   image: images/publications/las.png
@@ -168,3 +188,4 @@
   link: https://eric.ed.gov/?id=ED593094
   date: 2018-07-16
   publisher: "Proceedings of the 11th International Conference on Educational Data Mining"
+  image: images/publications/edm18.png
