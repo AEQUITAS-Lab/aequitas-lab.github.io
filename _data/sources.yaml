@@ -1,3 +1,6 @@
+- id: doi:10.1609/AIES.V8I3.36757
+  image: images/publications/aies25.jpg
+
 - id: doi:10.1007/978-3-031-98465-5_43
   publisher: "Proceedings of the 26th International Conference on Artificial Intelligence in Education"
   date: 2025-07-20
@@ -8,7 +11,7 @@
   date: 2025-07-20
   image: images/publications/aied25.png
 
-- id: doi:10.5281/ZENODO.15870276
+- id: doi:10.5281/zenodo.15870276
   publisher: "Proceedings of the 18th International Conference on Educational Data Mining"
   image: images/publications/edm25.png
 
@@ -96,7 +99,7 @@
 - id: doi:10.1145/3430895.3460139
   image: images/publications/las21.jpg
 
-- id: doi:10.18653/V1/2021.NLP4POSIMPACT-1.11
+- id: doi:10.18653/v1/2021.nlp4posimpact-1.11
   date: 2021-08-05
   image: images/publications/acl21.png
 

@@ -1,84 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1145/3698205.3729552
-  title: Investigating Systematic Variation in Academic Procrastination Behavior by
-    Course, Assignment, and Student Characteristics
-  authors:
-  - Yan Tao
-  - Nathan Maidi
-  - Renzhe Yu
-  - "Ren\xE9 F. Kizilcec"
-  publisher: Proceedings of the Twelfth ACM Conference on Learning @ Scale
-  date: '2025-07-17'
-  link: https://doi.org/g9v25x
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/las25.jpg
-- id: doi:10.5281/ZENODO.15870276
-  title: Understanding Predictive Models of Student Success with a Multiverse Analysis
-  authors:
-  - ' Yunxuan Tang'
-  - ' Emma Harvey'
-  - ' Chengyuan Yao'
-  - ' Renzhe Yu'
-  - ' Rene Kizilcec'
-  - ' Christopher Brooks'
-  publisher: Proceedings of the 18th International Conference on Educational Data
-    Mining
-  date: '2025-07-12'
-  link: https://doi.org/g93796
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/edm25.png
-- id: doi:10.1080/19345747.2024.2308306
-  title: Is Big Data Better? LMS Data and Prediction Accuracy in Postsecondary Education
-  authors:
-  - Kelli A. Bird
-  - Benjamin L. Castleman
-  - Yifeng Song
-  - Renzhe Yu
-  publisher: Journal of Research on Educational Effectiveness
-  date: '2025-04-15'
-  link: https://doi.org/g9hgbk
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/jree.png
-- id: doi:10.1145/3706468.3706567
-  title: 'Towards Fair and Privacy-Aware Transfer Learning for Educational Predictive
-    Modeling: A Case Study on Retention Prediction in Community Colleges'
+- id: doi:10.1609/AIES.V8I3.36757
+  title: 'When the Past Misleads: Rethinking Training Data Expansion Under Temporal
+    Distribution Shifts'
   authors:
   - Chengyuan Yao
-  - Carmen Cortez
+  - Yunxuan Tang
+  - Christopher Brooks
+  - Rene F. Kizilcec
   - Renzhe Yu
-  publisher: Proceedings of the 15th International Learning Analytics and Knowledge
-    Conference
-  date: '2025-03-03'
-  link: https://doi.org/g85s69
+  publisher: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society
+  date: '2025-10-15'
+  link: https://doi.org/g984rd
   orcid: 0000-0002-2375-3537
   plugin: sources.py
   file: sources.yaml
-  image: images/publications/lak25.png
-- id: doi:10.1016/j.lindif.2024.102598
-  title: 'Students'' study activities before and after exam deadlines as predictors
-    of performance in STEM courses: A multi-source data analysis'
-  authors:
-  - Luise von Keyserlingk
-  - Fani Lauermann
-  - Qiujie Li
-  - Renzhe Yu
-  - Charlott Rubach
-  - Richard Arum
-  - Jutta Heckhausen
-  publisher: Learning and Individual Differences
-  date: '2025-01-01'
-  link: https://doi.org/g8sr7m
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/lid.jpg
+  image: images/publications/aies25.jpg
 - id: doi:10.1007/978-3-031-98465-5_43
   title: "Evaluating an\_AI Tutor for\_Bias Across Different Foundation Models"
   authors:
@@ -114,6 +51,85 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/aied25.png
+- id: doi:10.1145/3698205.3729552
+  title: Investigating Systematic Variation in Academic Procrastination Behavior by
+    Course, Assignment, and Student Characteristics
+  authors:
+  - Yan Tao
+  - Nathan Maidi
+  - Renzhe Yu
+  - "Ren\xE9 F. Kizilcec"
+  publisher: Proceedings of the Twelfth ACM Conference on Learning @ Scale
+  date: '2025-07-17'
+  link: https://doi.org/g9v25x
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/las25.jpg
+- id: doi:10.1080/19345747.2024.2308306
+  title: Is Big Data Better? LMS Data and Prediction Accuracy in Postsecondary Education
+  authors:
+  - Kelli A. Bird
+  - Benjamin L. Castleman
+  - Yifeng Song
+  - Renzhe Yu
+  publisher: Journal of Research on Educational Effectiveness
+  date: '2025-04-15'
+  link: https://doi.org/g9hgbk
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jree.png
+- id: doi:10.5281/zenodo.15870276
+  title: Understanding Predictive Models of Student Success with a Multiverse Analysis
+  authors:
+  - ' Yunxuan Tang'
+  - ' Emma Harvey'
+  - ' Chengyuan Yao'
+  - ' Renzhe Yu'
+  - ' Rene Kizilcec'
+  - ' Christopher Brooks'
+  publisher: Proceedings of the 18th International Conference on Educational Data
+    Mining
+  date: '2025-07-12'
+  link: https://doi.org/g93796
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/edm25.png
+- id: doi:10.1145/3706468.3706567
+  title: 'Towards Fair and Privacy-Aware Transfer Learning for Educational Predictive
+    Modeling: A Case Study on Retention Prediction in Community Colleges'
+  authors:
+  - Chengyuan Yao
+  - Carmen Cortez
+  - Renzhe Yu
+  publisher: Proceedings of the 15th International Learning Analytics and Knowledge
+    Conference
+  date: '2025-03-03'
+  link: https://doi.org/g85s69
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/lak25.png
+- id: doi:10.1016/j.lindif.2024.102598
+  title: 'Students'' study activities before and after exam deadlines as predictors
+    of performance in STEM courses: A multi-source data analysis'
+  authors:
+  - Luise von Keyserlingk
+  - Fani Lauermann
+  - Qiujie Li
+  - Renzhe Yu
+  - Charlott Rubach
+  - Richard Arum
+  - Jutta Heckhausen
+  publisher: Learning and Individual Differences
+  date: '2025-01-01'
+  link: https://doi.org/g8sr7m
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/lid.jpg
 - id: doi:10.1038/s41597-024-03931-8
   title: 'Course-Skill Atlas: A national longitudinal dataset of skills taught in
     U.S. higher education curricula'
@@ -163,6 +179,21 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/las24.png
+- id: doi:10.35542/osf.io/pvbmt
+  title: 'Fairness Hub Technical Briefs: Mitigation Strategies of Distribution Shift'
+  authors:
+  - Nicolas Acevedo
+  - Carmen Cortez
+  - Christopher Brooks
+  - "Ren\xE9 F. Kizilcec"
+  - Renzhe Yu
+  publisher: Learning Engineering Virtual Institute
+  date: '2024-06-01'
+  link: https://doi.org/g8pzff
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/levi.jfif
 - id: doi:10.1145/3636555.3636936
   title: Contexts Matter but How? Course-Level Correlates of Performance and Fairness
     Shift in Predictive Model Transfer
@@ -195,67 +226,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/lak24.png
-- id: arxiv:2405.14186
-  title: 'Fairness Hub Technical Briefs: Definition and Detection of Distribution
-    Shift'
-  authors:
-  - Nicolas Acevedo
-  - Carmen Cortez
-  - Chris Brooks
-  - Rene Kizilcec
-  - Renzhe Yu
-  publisher: Learning Engineering Virtual Institute
-  date: '2024-05-24'
-  link: https://arxiv.org/abs/2405.14186
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/levi.jfif
-- id: doi:10.35542/osf.io/pvbmt
-  title: 'Fairness Hub Technical Briefs: Mitigation Strategies of Distribution Shift'
-  authors:
-  - Nicolas Acevedo
-  - Carmen Cortez
-  - Christopher Brooks
-  - "Ren\xE9 F. Kizilcec"
-  - Renzhe Yu
-  publisher: Learning Engineering Virtual Institute
-  date: '2024-06-01'
-  link: https://doi.org/g8pzff
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/levi.jfif
-- id: doi:10.1145/3593013.3594107
-  title: 'Cross-Institutional Transfer Learning for Educational Models: Implications
-    for Model Performance, Fairness, and Equity'
-  authors:
-  - Joshua Gardner
-  - Renzhe Yu
-  - Quan Nguyen
-  - Christopher Brooks
-  - Rene Kizilcec
-  publisher: 2023 ACM Conference on Fairness Accountability and Transparency
-  date: '2023-06-12'
-  link: https://doi.org/g8n6v4
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/facct23.png
-- id: arxiv:2309.12371
-  title: 'Fairness Hub Technical Briefs: AUC Gap'
-  authors:
-  - Jinsook Lee
-  - Chris Brooks
-  - Renzhe Yu
-  - Rene Kizilcec
-  publisher: Learning Engineering Virtual Institute
-  date: '2023-09-27'
-  link: https://arxiv.org/abs/2309.12371
-  orcid: 0000-0002-2375-3537
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/levi.jfif
 - id: doi:10.35542/osf.io/jtb5n
   title: 'Fairness Hub Technical Briefs: Overview of Bias Mitigation Strategies'
   authors:
@@ -289,6 +259,22 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/edm23.png
+- id: doi:10.1145/3593013.3594107
+  title: 'Cross-Institutional Transfer Learning for Educational Models: Implications
+    for Model Performance, Fairness, and Equity'
+  authors:
+  - Joshua Gardner
+  - Renzhe Yu
+  - Quan Nguyen
+  - Christopher Brooks
+  - Rene Kizilcec
+  publisher: 2023 ACM Conference on Fairness Accountability and Transparency
+  date: '2023-06-12'
+  link: https://doi.org/g8n6v4
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/facct23.png
 - id: isbn:978-3-7799-7718-6
   title: What can digital trace data tell us about postsecondary students' academic
     success? An overview of the literature and an illustrative example
@@ -357,7 +343,7 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/aera-open.jpg
-- id: doi:10.18653/V1/2021.NLP4POSIMPACT-1.11
+- id: doi:10.18653/v1/2021.nlp4posimpact-1.11
   title: A Research Framework for Understanding Education-Occupation Alignment with
     NLP Techniques
   authors:
@@ -517,6 +503,34 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/las18.jpg
+- id: arxiv:2405.14186
+  title: 'Fairness Hub Technical Briefs: Definition and Detection of Distribution
+    Shift'
+  authors:
+  - Nicolas Acevedo
+  - Carmen Cortez
+  - Chris Brooks
+  - Rene Kizilcec
+  - Renzhe Yu
+  publisher: Learning Engineering Virtual Institute
+  date: '2024-05-24'
+  link: https://arxiv.org/abs/2405.14186
+  image: images/publications/levi.jfif
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2309.12371
+  title: 'Fairness Hub Technical Briefs: AUC Gap'
+  authors:
+  - Jinsook Lee
+  - Chris Brooks
+  - Renzhe Yu
+  - Rene Kizilcec
+  publisher: Learning Engineering Virtual Institute
+  date: '2023-09-27'
+  link: https://arxiv.org/abs/2309.12371
+  image: images/publications/levi.jfif
+  plugin: sources.py
+  file: sources.yaml
 - title: How Universities Can Mind the Skills Gap (Higher Education and the Future
     of Work)
   date: '2021-04-01'
