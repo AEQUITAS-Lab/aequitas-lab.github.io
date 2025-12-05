@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.18653/v1/2025.findings-emnlp.518
+  title: "Bringing Pedagogy into Focus: Evaluating Virtual Teaching Assistants\u2019\
+    \ Question-Answering in Asynchronous Learning Environments"
+  authors:
+  - Li Siyan
+  - Zhen Xu
+  - Vethavikashini Chithrra Raghuram
+  - Xuanming Zhang
+  - Renzhe Yu
+  - Zhou Yu
+  publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2025'
+  date: '2025-11-01'
+  link: https://doi.org/hbdk56
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/emnlp25.png
 - id: doi:10.1609/AIES.V8I3.36757
   title: 'When the Past Misleads: Rethinking Training Data Expansion Under Temporal
     Distribution Shifts'
@@ -373,6 +390,26 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/las21.jpg
+- id: doi:10.31234/osf.io/kf8cs
+  title: "Risk and protective factors of college students\u2019 psychological well-being\
+    \ during the COVID-19 pandemic: emotional stability, mental health, and household\
+    \ resources"
+  authors:
+  - Julia Moeller
+  - Luise von Keyserlingk
+  - Marion Spengler
+  - Hanna Gaspard
+  - Hye Rin Lee
+  - Katsumi Yamaguchi-Pedroza
+  - Renzhe Yu
+  - Christian Fischer
+  - ' renzhey@uci.edu'
+  publisher: Center for Open Science
+  date: '2021-04-07'
+  link: https://doi.org/hbbnbc
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s11145-020-10081-x
   title: "Opening the black box: user-log analyses of children\u2019s e-Book reading\
     \ and associations with word knowledge"

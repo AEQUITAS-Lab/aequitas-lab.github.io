@@ -18,7 +18,9 @@ Currently there is no project-based postdoc position available. However, you can
 - [DSI Postdoctoral Fellows Program](https://datascience.columbia.edu/research/postdoctoral-researchers/) 
 
 ### Doctoral students
-We are not admitting **new doctoral students** for Fall 2026. **Current doctoral students** at TC/Columbia are welcome to email Dr. Yu about potential collaboration.
+We are NOT admitting **new doctoral students** for Fall 2026. 
+
+**Current doctoral students** at TC/Columbia are welcome to email Dr. Yu about potential collaboration.
 <!-- - [Cognitive Science in Education](https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/degrees--requirements/cognitive-science-in-education-phd/)   -->
 <!-- - [Measurement and Evaluation](https://www.tc.columbia.edu/human-development/measurement-evaluation-and-statistics/degrees--requirements/measurement-and-evaluation-phd/)  -->
 <!-- You should apply to one (and only one) of the programs that best suits your background and interest, and mention that you want to work with Dr. Yu in your statement of purpose. You can find more application instructions [here](https://www.tc.columbia.edu/admission/how-to-apply/degree-programs/). -->

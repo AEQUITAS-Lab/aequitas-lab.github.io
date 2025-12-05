@@ -1,7 +1,7 @@
 ---
 name: Anupam Raj
 image: images/headshots/anupam-raj.jfif
-role: doc
+role: affiliate
 links:
     linkedin: anupam-raj-119124382
 ---
