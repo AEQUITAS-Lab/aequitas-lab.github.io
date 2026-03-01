@@ -1,7 +1,7 @@
 ---
 name: Rebecca Su
 image: images/headshots/rebecca-su.jpg
-role: ug
+group: alum
 links:
     linkedin: surebecca
 ---

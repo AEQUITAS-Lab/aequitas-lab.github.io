@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.18608/jla.2026.9127
+  title: 'Evaluating 21st-Century Competencies in Higher Education Curricula with
+    Large Language Models: Benchmarking and Targeted Prompting Strategies'
+  authors:
+  - Zhen Xu
+  - Xin Guan
+  - Chenxi Shi
+  - Qinhao Chen
+  - Renzhe Yu
+  publisher: Journal of Learning Analytics
+  date: '2026-02-25'
+  link: https://doi.org/hbq4m6
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/jla.jpg
 - id: doi:10.18653/v1/2025.findings-emnlp.518
   title: "Bringing Pedagogy into Focus: Evaluating Virtual Teaching Assistants\u2019\
     \ Question-Answering in Asynchronous Learning Environments"

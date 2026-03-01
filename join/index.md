@@ -13,12 +13,10 @@ We welcome people from all backgrounds to consider joining our lab, especially m
 Before applying for or inquiring about any of the opportunities listed below, **please thoroughly review the research projects and publications on this website to understand what we are doing.**
 
 ### Postdoctoral scholars
-Currently there is no project-based postdoc position available. However, you can apply to the following fellowship programs at Columbia/TC and identify Dr. Yu as one of your faculty mentors. These programs support fully independent postdoc positions and are highly competitive.
-
-- [DSI Postdoctoral Fellows Program](https://datascience.columbia.edu/research/postdoctoral-researchers/) 
+Currently there is no project-based postdoc position available.
 
 ### Doctoral students
-We are NOT admitting **new doctoral students** for Fall 2026. 
+We are NOT admitting **new doctoral students** for Fall 2026 entry.
 
 **Current doctoral students** at TC/Columbia are welcome to email Dr. Yu about potential collaboration.
 <!-- - [Cognitive Science in Education](https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/degrees--requirements/cognitive-science-in-education-phd/)   -->

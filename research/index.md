@@ -8,12 +8,7 @@ nav:
 
 {% include section.html %}
 
-We conduct methodological and empirical research in two directions:   
-
-1. Leverage data science and AI as methodological tools to answer social science questions  
-2. Examine benefits and harms of data science and AI for society
-
-We actively work with **under-resourced educational institutions and marginalized populations** to help improve their conditions with data science and AI.
+We conduct socio-technical research to advance responsible data science and AI for education and society. Practically, we work with under-resourced educational institutions and marginalized populations to help improve their conditions with data science and AI.
 
 ## Current Projects
 

@@ -8,5 +8,5 @@ AEQUITAS Lab is a research lab situated in [Teachers College, Columbia Universit
 
 {% include column-pic.html 
    image1="/images/lab-pic-1.jpg"
-   image2="/images/lab-pic-2.jpg"
+   image2="/images/lab-pic-3.jpg"
 %}

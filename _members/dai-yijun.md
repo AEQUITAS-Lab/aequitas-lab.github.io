@@ -1,5 +1,5 @@
 ---
-name: Yijun Dai
+name: Yijun (Diana) Dai
 image: images/headshots/yijun-dai.jpg
 role: ms
 links:
