@@ -1,8 +1,70 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3774398.3811556
+  title: Asynchronous Discussion Forums Show More Analytical but Less Diverse Student
+    Engagement in the Age of AI
+  authors:
+  - Zhen Xu
+  - Yijun Dai
+  - Chenxi Shi
+  - Siyan Li
+  - Chengyuan Yao
+  - Renzhe Yu
+  publisher: Proceedings of the Thirteenth ACM Conference on Learning @ Scale
+  date: '2026-06-28'
+  link: https://doi.org/hb8x8k
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3774398.3811591
+  title: Calibrating Social Bias in LLM and Human Responses in Postsecondary Online
+    Discussion Forums
+  authors:
+  - Daniel March
+  - Zhen Xu
+  - Chengyuan Yao
+  - Renzhe Yu
+  publisher: Proceedings of the Thirteenth ACM Conference on Learning @ Scale
+  date: '2026-06-28'
+  link: https://doi.org/hb8x8m
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3785022.3785070
+  title: Enhancing LLM-Based Data Annotation with Error Decomposition
+  authors:
+  - Zhen Xu
+  - Vedant Khatri
+  - Yijun Dai
+  - Xiner Liu
+  - Siyan Li
+  - Xuanming Zhang
+  - Renzhe Yu
+  publisher: 'Proceedings of the LAK26: 16th International Learning Analytics and
+    Knowledge Conference'
+  date: '2026-04-26'
+  link: https://doi.org/hbzkr5
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/x289s_v2
+  title: Tracing Need for Cognition in Digital Learning
+  authors:
+  - Aki Schumacher
+  - Luise von Keyserlingk
+  - Hannah Deininger
+  - Renzhe Yu
+  - Nia Nixon
+  - Lisa Bardach
+  publisher: Center for Open Science
+  date: '2026-02-16'
+  link: https://doi.org/hbp93d
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.18608/jla.2026.9127
-  title: 'Evaluating 21st-Century Competencies in Higher Education Curricula with
-    Large Language Models: Benchmarking and Targeted Prompting Strategies'
+  title: Evaluating 21st-Century Competencies in Postsecondary Curricula with Large
+    Language Models
   authors:
   - Zhen Xu
   - Xin Guan
@@ -16,6 +78,21 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/jla.jpg
+- id: doi:10.1007/978-3-032-29794-5_15
+  title: "Fair4AIED 2026: Second International Workshop on\_Fairness in\_AI-Assisted\
+    \ Decision-Making for\_Education"
+  authors:
+  - Frank Stinar
+  - Chengyuan Yao
+  - Mirko Marras
+  - Renzhe Yu
+  - Nigel Bosch
+  publisher: Communications in Computer and Information Science
+  date: '2026-01-01'
+  link: https://doi.org/hb8x8n
+  orcid: 0000-0002-2375-3537
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.18653/v1/2025.findings-emnlp.518
   title: "Bringing Pedagogy into Focus: Evaluating Virtual Teaching Assistants\u2019\
     \ Question-Answering in Asynchronous Learning Environments"
