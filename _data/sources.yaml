@@ -1,3 +1,15 @@
+- id: doi:10.1145/3785022.3785070
+  image: images/publications/lak26.png
+
+- id: doi:10.1145/3774398.3811591
+  image: images/publications/las26.png
+
+- id: doi:10.1145/3774398.3811556
+  image: images/publications/las26.png
+
+- id: doi:10.1016/j.chb.2026.109021
+  image: images/publications/chb.jpg
+
 - id: doi:10.18608/jla.2026.9127
   image: images/publications/jla.jpg
 

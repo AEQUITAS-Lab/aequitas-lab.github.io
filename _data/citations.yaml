@@ -1,8 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.chb.2026.109021
+  title: Tracing need for cognition in digital learning
+  authors:
+  - Aki Schumacher
+  - Luise von Keyserlingk
+  - Hannah Deininger
+  - Renzhe Yu
+  - Nia Nixon
+  - Lisa Bardach
+  publisher: Computers in Human Behavior
+  date: '2026-09-01'
+  link: https://doi.org/hcfbw8
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/chb.jpg
+- id: doi:10.1145/3774398.3811556
+  title: Asynchronous Discussion Forums Show More Analytical but Less Diverse Student
+    Engagement in the Age of AI
+  authors:
+  - Zhen Xu
+  - Yijun Dai
+  - Chenxi Shi
+  - Siyan Li
+  - Chengyuan Yao
+  - Renzhe Yu
+  publisher: Proceedings of the Thirteenth ACM Conference on Learning @ Scale
+  date: '2026-06-28'
+  link: https://doi.org/hb8x8k
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/las26.png
+- id: doi:10.1145/3774398.3811591
+  title: Calibrating Social Bias in LLM and Human Responses in Postsecondary Online
+    Discussion Forums
+  authors:
+  - Daniel March
+  - Zhen Xu
+  - Chengyuan Yao
+  - Renzhe Yu
+  publisher: Proceedings of the Thirteenth ACM Conference on Learning @ Scale
+  date: '2026-06-28'
+  link: https://doi.org/hb8x8m
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/las26.png
+- id: doi:10.1145/3785022.3785070
+  title: Enhancing LLM-Based Data Annotation with Error Decomposition
+  authors:
+  - Zhen Xu
+  - Vedant Khatri
+  - Yijun Dai
+  - Xiner Liu
+  - Siyan Li
+  - Xuanming Zhang
+  - Renzhe Yu
+  publisher: 'Proceedings of the LAK26: 16th International Learning Analytics and
+    Knowledge Conference'
+  date: '2026-04-26'
+  link: https://doi.org/hbzkr5
+  orcid: 0000-0002-2375-3537
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/lak26.png
 - id: doi:10.18608/jla.2026.9127
-  title: 'Evaluating 21st-Century Competencies in Higher Education Curricula with
-    Large Language Models: Benchmarking and Targeted Prompting Strategies'
+  title: Evaluating 21st-Century Competencies in Postsecondary Curricula with Large
+    Language Models
   authors:
   - Zhen Xu
   - Xin Guan

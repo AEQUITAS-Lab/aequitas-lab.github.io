@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 6
+  order: 5
   tooltip: 
 ---
 
@@ -10,7 +10,7 @@ nav:
 
 {% include section.html %}
 
-AEQUITAS Lab is part of [Teachers College, Columbia University](https://www.tc.columbia.edu/). We are a geographically distributed team headquartered at **Grace Dodge Hall 458**.
+AEQUITAS Lab is part of [Teachers College, Columbia University](https://www.tc.columbia.edu/). We are a geographically distributed team headquartered at **Grace Dodge Hall**. Feel free to email us about potential collaboration!
 {%
   include figure.html
   image="images/tc-logo.jpg"
