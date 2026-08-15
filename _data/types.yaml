@@ -3,7 +3,7 @@
 # team member roles
 
 pi:
-  description: Faculty Director
+  description: Director
 
 postdoc:
   description: Postdoctoral Researcher
